@@ -2,7 +2,7 @@
 
 把程式想像成一台自動販賣機：你投入硬幣與按鈕，機器照規則處理，最後吐出飲料。
 
-![ChatGPT Image 15 мая 2026 г., 14_40_45.png](images_Lesson_01_Input_Output/lesson1_img1.png)
+![ChatGPT Image 15 мая 2026 г., 14_40_45.png](./images_Lesson_01_Input_Output/lesson1_img1.png)
 
 程式也是一樣：
 
@@ -35,7 +35,7 @@
 
 就是輸出。
 
-![ChatGPT Image 15 мая 2026 г., 14_43_46.png](images_Lesson_01_Input_Output/lesson1_img2.png)
+![ChatGPT Image 15 мая 2026 г., 14_43_46.png](./images_Lesson_01_Input_Output/lesson1_img2.png)
 
 ---
 
@@ -139,7 +139,7 @@ print(456)
 
 ## Section III. 輸入函式 `input()`
 
-![ChatGPT Image 15 мая 2026 г., 14_16_20.png](images_Lesson_01_Input_Output/lesson1_img3.png)
+![ChatGPT Image 15 мая 2026 г., 14_16_20.png](./images_Lesson_01_Input_Output/lesson1_img3.png)
 
 `input()` 的功能是讓程式等待使用者輸入資料。
 
