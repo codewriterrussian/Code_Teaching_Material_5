@@ -1,19 +1,16 @@
 /*.pdf
 /1.hs
 /lesson_1.ipynb
-<<<<<<< HEAD
-student_handouts_md/_zip_originals/
+
 student_handouts_md/_zip_originals/
 student_handouts_md/_restore_tmp/
-=======
-c
->>>>>>> a546d4e (Update code teaching material)
-<<<<<<< HEAD
+
 import_new_md_zips.py
 update_md_readme.py
-=======
 
 # Private / teacher-only files
 Code_solution/
 handout_myself/
->>>>>>> f529f44 (Ignore private teacher files)
+
+# macOS
+.DS_Store
