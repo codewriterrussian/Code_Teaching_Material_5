@@ -9,7 +9,7 @@
 > 資料 → 使用運算子處理 → 得到新的結果
 > 
 
-![ChatGPT Image 16 мая 2026 г., 10_52_08.png](images_Lesson_04_Operators/lesson4_img2.png)
+![ChatGPT Image 16 мая 2026 г., 10_52_08.png](images/Lesson_04_Operators/lesson4_img2.png)
 
 ---
 
@@ -104,7 +104,7 @@ print(a / b)
 | `a // b` | a 除以 b 後取商 | `7 // 3` | `2` |
 | `a % b` | a 除以 b 後取餘數 | `7 % 3` | `1` |
 
-![ChatGPT Image 16 мая 2026 г., 10_54_03.png](images_Lesson_04_Operators/lesson4_img1.png)
+![ChatGPT Image 16 мая 2026 г., 10_54_03.png](images/Lesson_04_Operators/lesson4_img1.png)
 
 ---
 
@@ -218,7 +218,7 @@ print(23 % 5)
 可以分成 4 組，剩下 3 人
 ```
 
-![ChatGPT Image 16 мая 2026 г., 10_56_31.png](images_Lesson_04_Operators/lesson4_img3.png)
+![ChatGPT Image 16 мая 2026 г., 10_56_31.png](images/Lesson_04_Operators/lesson4_img3.png)
 
 ---
 
@@ -287,7 +287,7 @@ False
 
 ## Section IX. 一個等號和兩個等號不一樣
 
-![ChatGPT Image 16 мая 2026 г., 11_00_32.png](images_Lesson_04_Operators/lesson4_img4.png)
+![ChatGPT Image 16 мая 2026 г., 11_00_32.png](images/Lesson_04_Operators/lesson4_img4.png)
 
 在 Python 裡，一個等號和兩個等號的意思不一樣。
 
@@ -344,7 +344,7 @@ x == 10
 
 ## Section X. 邏輯運算子：`and` 和 `or`
 
-![ChatGPT Image 16 мая 2026 г., 11_05_37.png](images_Lesson_04_Operators/lesson4_img5.png)
+![ChatGPT Image 16 мая 2026 г., 11_05_37.png](images/Lesson_04_Operators/lesson4_img5.png)
 
 邏輯運算子可以把多個條件合在一起判斷。
 

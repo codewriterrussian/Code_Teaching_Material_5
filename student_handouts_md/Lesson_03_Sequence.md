@@ -21,7 +21,7 @@
 
 變數就像一張便條紙。
 
-![ChatGPT Image 15 мая 2026 г., 14_52_07.png](images_Lesson_03_Sequence/lesson3_img2.png)
+![ChatGPT Image 15 мая 2026 г., 14_52_07.png](images/Lesson_03_Sequence/lesson3_img2.png)
 
 如果你一開始在便條紙上寫 `10`，後來又把它改成 `20`，那電腦最後看到的就是 `20`。
 
@@ -53,7 +53,7 @@ print(x)
 
 藉由程式會由上而下執行的特性，可以先拿舊的資料來計算，再把計算後的新結果存回同一個變數。
 
-![ChatGPT Image 15 мая 2026 г., 14_57_56.png](images_Lesson_03_Sequence/lesson3_img1.png)
+![ChatGPT Image 15 мая 2026 г., 14_57_56.png](images/Lesson_03_Sequence/lesson3_img1.png)
 
 也就是：
 
