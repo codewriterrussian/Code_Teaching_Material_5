@@ -29,3 +29,9 @@ __pycache__/
 .DS_Store
 Thumbs.db
 .vscode/
+
+# Local helper scripts
+tools/
+
+# Local helper scripts
+tools/
