@@ -4,43 +4,31 @@ This repository contains Python teaching materials for beginner programming less
 
 ## Repository Structure
 
-```text
-Teaching_Material/
-├── Code/
-│   └── lesson_1_updated_traditional_chinese.ipynb
-├── python_student_handouts/
-│   ├── L0_environment_setup_student_handout_covered.pdf
-│   ├── L1_input_output_student_handout_covered.pdf
-│   ├── L1b_input_output_student_handout_covered.pdf
-│   ├── L2_variables_student_handout_covered.pdf
-│   ├── L2b_variable_naming_student_handout_covered.pdf
-│   └── L2c_data_types_student_handout_covered.pdf
-└── README.md
-```
+- `notebooks/`: Jupyter notebook practice files
+- `student_handouts_md/`: Markdown student handouts
+- `student_handouts_md/images/`: Images used by Markdown handouts
+- `student_handouts_pdf/`: Covered PDF student handouts
 
-## Contents
+## Current Notebooks
 
-### Code
+- `lesson_1.ipynb`
+- `lesson_2.ipynb`
+- `lesson_3.ipynb`
+- `test_1.ipynb`
 
-This folder contains Python/Jupyter notebook teaching examples.
+## Current Markdown Handouts
 
-Current notebook:
-
-- `lesson_1_updated_traditional_chinese.ipynb`
-
-### python_student_handouts
-
-This folder contains covered student handouts. These versions are designed for students to practice without immediately seeing all answers.
-
-Current lessons:
-
-- `L0_environment_setup_student_handout_covered.pdf`
-- `L1_input_output_student_handout_covered.pdf`
-- `L1b_input_output_student_handout_covered.pdf`
-- `L2_variables_student_handout_covered.pdf`
-- `L2b_variable_naming_student_handout_covered.pdf`
-- `L2c_data_types_student_handout_covered.pdf`
+- `Lesson_01_Input_Output.md`
+- `Lesson_02_Variables.md`
+- `Lesson_02b_Variable_Naming.md`
+- `Lesson_02c_Input_Print_Bool.md`
+- `Lesson_02d_Multiple_Variables.md`
+- `Lesson_03_Sequence.md`
+- `Lesson_04_Operators.md`
+- `Lesson_04b_Compound_Assignment.md`
+- `Lesson_04c_Data_Type_Comparison.md`
+- `Lesson_05_Format_Output.md`
 
 ## Notes
 
-Some local files, such as teacher scripts and original PDFs, are intentionally not uploaded to this repository. They are kept locally and ignored by `.gitignore`.
+Some local files are intentionally not uploaded, including teacher scripts, private solutions, original handouts, temporary zip exports, and local helper tools.
