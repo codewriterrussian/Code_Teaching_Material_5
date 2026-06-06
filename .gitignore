@@ -33,5 +33,5 @@ Thumbs.db
 # Local helper scripts
 tools/
 
-# Local helper scripts
-tools/
+# Solutions
+notebooks_solution/
