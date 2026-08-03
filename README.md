@@ -1,34 +1,28 @@
-# Teaching Material
+# Code_Teaching_Material_5
 
-This repository contains Python teaching materials for beginner programming lessons.
+Programming lesson materials, student handouts, exercises, and teacher solutions.
 
-## Repository Structure
+## Repository structure
 
-- `notebooks/`: Jupyter notebook practice files
-- `student_handouts_md/`: Markdown student handouts
-- `student_handouts_md/images/`: Images used by Markdown handouts
-- `student_handouts_pdf/`: Covered PDF student handouts
+```text
+Code_Teaching_Material_5/
+├── notebooks/
+├── notebooks_solution_teacher_only/
+├── student_handouts_md/
+│   └── images/
+├── student_handouts_md_not_upload/
+├── tools/
+└── README.md
+```
 
-## Current Notebooks
+## Folders
 
-- `lesson_1.ipynb`
-- `lesson_2.ipynb`
-- `lesson_3.ipynb`
-- `test_1.ipynb`
-
-## Current Markdown Handouts
-
-- `Lesson_01_Input_Output.md`
-- `Lesson_02_Variables.md`
-- `Lesson_02b_Variable_Naming.md`
-- `Lesson_02c_Input_Print_Bool.md`
-- `Lesson_02d_Multiple_Variables.md`
-- `Lesson_03_Sequence.md`
-- `Lesson_04_Operators.md`
-- `Lesson_04b_Compound_Assignment.md`
-- `Lesson_04c_Data_Type_Comparison.md`
-- `Lesson_05_Format_Output.md`
+- `notebooks/`: student lesson notebooks and exercises
+- `notebooks_solution_teacher_only/`: teacher solutions and answer notebooks
+- `student_handouts_md/`: Markdown lesson handouts and lesson images
+- `student_handouts_md_not_upload/`: local materials that should not be uploaded
+- `tools/`: scripts for checking or maintaining the teaching materials
 
 ## Notes
 
-Some local files are intentionally not uploaded, including teacher scripts, private solutions, original handouts, temporary zip exports, and local helper tools.
+Teacher-only and local source materials should be reviewed before publishing.

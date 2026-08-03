@@ -1,37 +1,38 @@
-# PDFs
-/*.pdf
-
-# Local test / old files
-/1.hs
-/lesson_1.ipynb
-
-# Notion / Markdown import temporary folders
-student_handouts_md/_zip_originals/
-student_handouts_md/_restore_tmp/
-
-# Helper scripts not needed on GitHub
-import_new_md_zips.py
-update_md_readme.py
-
-# Private / teacher-only files
-Code_solution/
-handout_myself/
-solutions/
-teacher_notes/
-Structure.md
-
-# Jupyter / Python
-.ipynb_checkpoints/
-__pycache__/
-*.pyc
-
-# OS / editor
+# macOS
 .DS_Store
-Thumbs.db
+._*
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE settings
+.idea/
 .vscode/
 
-# Local helper scripts
-tools/
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*~
 
-# Solutions
-notebooks_solution/
+# Compiled files
+*.o
+*.out
+*.exe
+*.dSYM/
+
+# Local-only teaching materials
+student_handouts_md_not_upload/
+student_handouts_md/_zip_originals/
