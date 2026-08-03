@@ -1,38 +1,28 @@
-# macOS
-.DS_Store
-._*
+# Teacher-only / private files
+Code_solution_teacher_only/
+handout_teacher_only/
+notebooks_solution_teacher_only/
 
-# Python
-__pycache__/
-*.py[cod]
-.pytest_cache/
-.mypy_cache/
-.ruff_cache/
+# Materials not yet released to this student
+student_handouts_md_not_upload/
 
-# Jupyter
+# Local helper scripts
+tools/
+
+# Notion / Markdown import temporary folders
+student_handouts_md/_zip_originals/
+student_handouts_md/_restore_tmp/
+
+# Jupyter / Python
 .ipynb_checkpoints/
+__pycache__/
+*.pyc
 
-# Virtual environments
-.venv/
-venv/
-env/
-
-# IDE settings
-.idea/
+# OS / editor
+.DS_Store
+Thumbs.db
 .vscode/
 
-# Logs and temporary files
-*.log
-*.tmp
-*.bak
-*~
-
-# Compiled files
-*.o
-*.out
-*.exe
-*.dSYM/
-
-# Local-only teaching materials
-student_handouts_md_not_upload/
-student_handouts_md/_zip_originals/
+# Local test / old files
+/1.hs
+/lesson_1.ipynb
