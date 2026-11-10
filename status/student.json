@@ -1,0 +1,30 @@
+
+{
+  "record_date": "2026-11-10",
+  "goal": {
+    "exam": "APCS",
+    "target_level": "中級",
+    "target_year_month": "2027-01",
+    "exact_exam_date": null
+  },
+  "teaching_session": {
+    "date": "2026-11-10",
+    "platform": "ZeroJudge",
+    "questions": [
+      {
+        "problem_id": "q182",
+        "title": "2. 字串操作",
+        "url": "https://zerojudge.tw/ShowProblem?problemid=q182",
+        "topic": "字串操作"
+      },
+      {
+        "problem_id": "b965",
+        "title": "2. 矩陣轉換",
+        "url": "https://zerojudge.tw/ShowProblem?problemid=b965",
+        "topic": "矩陣操作與模擬"
+      }
+    ],
+    "issue": "學生兩題的題目理解不清楚",
+    "solution": "針對題目進行了進一步的課程講解。"
+  }
+}
