@@ -7,24 +7,30 @@
     "target_year_month": "2027-01",
     "exact_exam_date": null
   },
-  "teaching_session": {
-    "date": "2026-11-10",
-    "platform": "ZeroJudge",
-    "questions": [
-      {
-        "problem_id": "q182",
-        "title": "2. 字串操作",
-        "url": "https://zerojudge.tw/ShowProblem?problemid=q182",
-        "topic": "字串操作"
-      },
-      {
-        "problem_id": "b965",
-        "title": "2. 矩陣轉換",
-        "url": "https://zerojudge.tw/ShowProblem?problemid=b965",
-        "topic": "矩陣操作與模擬"
-      }
-    ],
-    "issue": "學生兩題的題目理解不清楚",
-    "solution": "針對題目進行了進一步的課程講解。"
-  }
+  "teaching_sessions": [
+    {
+      "date": "2026-11-10",
+      "platform": "ZeroJudge",
+      "planned_questions": ["q182", "b965"],
+      "completed_questions": ["q182"],
+      "pending_questions": ["b965"],
+      "student_issue": "學生對兩題的題意理解不清楚",
+      "teaching_note": "本堂針對 q182 加強題目講解與解題思路",
+      "homework": "完成 q182 程式碼並上傳 ZeroJudge",
+      "homework_status": "pending",
+      "next_class": "檢查 q182 作業，接著講解 b965"
+    },
+    {
+      "date": "2026-11-17",
+      "platform": "ZeroJudge",
+      "planned_questions": ["b965"],
+      "completed_questions": [],
+      "pending_questions": ["b965"],
+      "student_issue": "學生對 b965 邏輯概念理解有困難，二維串列的操作不熟悉",
+      "teaching_note": "本堂針對 b965 題目講解與解題思路，並示範二維串列的操作",
+      "homework": "完成 b965 程式碼並上傳 ZeroJudge",
+      "homework_status": "pending",
+      "next_class": "檢查 b965 作業，並進行程式碼優化與測試"
+    }
+  ]
 }
