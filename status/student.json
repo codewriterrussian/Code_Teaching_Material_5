@@ -21,16 +21,29 @@
       "next_class": "檢查 q182 作業，接著講解 b965"
     },
     {
-      "date": "2026-11-17",
+      "date": "2026-11-13",
       "platform": "ZeroJudge",
-      "planned_questions": ["b965"],
+      "planned_questions": ["b965", "c291"],
       "completed_questions": [],
       "pending_questions": ["b965"],
-      "student_issue": "學生對 b965 邏輯概念理解有困難，二維串列的操作不熟悉",
-      "teaching_note": "本堂針對 b965 題目講解與解題思路，並示範二維串列的操作",
+      "student_issue": "",
+      "teaching_note": "本堂針對 b965 題目講解與解題思路",
       "homework": "完成 b965 程式碼並上傳 ZeroJudge",
       "homework_status": "pending",
       "next_class": "檢查 b965 作業，並進行程式碼優化與測試"
+    },
+    {
+      "date": "2026-11-17",
+      "platform": "ZeroJudge",
+      "planned_questions": ["b965", "c291"],
+      "completed_questions": ["b965"],
+      "pending_questions": ["c291"],
+      "student_issue": "學生對 b965 的輸入處理較不熟悉",
+      "teaching_note": "本堂講解 b965 的輸入方式與二維串列操作，協助學生完成 b965，並開始進入 c291 題目",
+      "homework": "練習 c291 (q3)，複習 b965 的輸入處理與二維串列操作",
+      "homework_status": "pending",
+      "next_class": "繼續講解 c291，強化解題邏輯與程式實作"
     }
+
   ]
 }
