@@ -43,6 +43,18 @@
       "homework": "練習 c291 (q3)，複習 b965 的輸入處理與二維串列操作",
       "homework_status": "pending",
       "next_class": "繼續講解 c291，強化解題邏輯與程式實作"
+    },
+    {
+      "date": "2026-11-22",
+      "platform": "ZeroJudge",
+      "planned_questions": ["c291, b966"],
+      "completed_questions": ["c291"],
+      "pending_questions": ["b966"],
+      "student_issue": "迴圈變數轉換會搞混",
+      "teaching_note": "",
+      "homework": "",
+      "homework_status": "pending",
+      "next_class": ""
     }
 
   ]
