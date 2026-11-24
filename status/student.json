@@ -45,16 +45,16 @@
       "next_class": "繼續講解 c291，強化解題邏輯與程式實作"
     },
     {
-      "date": "2026-11-22",
-      "platform": "ZeroJudge",
-      "planned_questions": ["c291, b966"],
-      "completed_questions": ["c291"],
-      "pending_questions": ["b966"],
-      "student_issue": "迴圈變數轉換會搞混",
-      "teaching_note": "",
-      "homework": "",
-      "homework_status": "pending",
-      "next_class": ""
+    "date": "2026-11-22",
+    "platform": "ZeroJudge",
+    "planned_questions": ["c291", "b966"],
+    "completed_questions": ["c291", "b966"],
+    "pending_questions": [],
+    "student_issue": "迴圈變數轉換時容易混淆，需加強變數更新與迴圈執行流程的理解。",
+    "teaching_note": "課堂已完成 c291 與 b966，學生對迴圈變數轉換仍有部分觀念需要釐清。",
+    "homework": "完成 Notebook 中的 Q4，並將正確的程式碼提交至 ZeroJudge。",
+    "homework_status": "pending",
+    "next_class": "檢查 Notebook Q4 完成情況及 ZeroJudge 提交結果。"
     }
 
   ]
