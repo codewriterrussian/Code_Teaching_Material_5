@@ -55,7 +55,19 @@
     "homework": "完成 Notebook 中的 Q4，並將正確的程式碼提交至 ZeroJudge。",
     "homework_status": "pending",
     "next_class": "檢查 Notebook Q4 完成情況及 ZeroJudge 提交結果。"
-    }
+    },
+    {
+    "date": "2026-11-24",
+    "platform": "ZeroJudge",
+    "planned_questions": ["c292"],
+    "completed_questions": ["b966"],
+    "pending_questions": ["c292"],
+    "student_issue": "對於 b966 題目的解題邏輯及程式實作仍有一定程度的困難，尚需加強將題目條件轉換為完整解題流程的能力。",
+    "teaching_note": "本堂課以 b966 為主要練習題目，透過分階段練習引導學生理解解題邏輯。目前已完成 Q1 至 Q9，剩餘 Q10 及 ZeroJudge 平台提交驗證。原定 c292 題目延至後續課程進行。",
+    "homework": "完成 Q10，並提交 b966 至 ZeroJudge，回傳提交結果。",
+    "homework_status": "pending",
+    "next_class": "檢查 Q10 作業及 ZeroJudge 提交結果，針對 b966 尚未熟悉的解題觀念進行複習與補強，確認理解後進入 c292 題目的教學與練習。"
+}
 
   ]
 }
