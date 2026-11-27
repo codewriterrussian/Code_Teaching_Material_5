@@ -67,6 +67,17 @@
     "homework": "完成 Q10，並提交 b966 至 ZeroJudge，回傳提交結果。",
     "homework_status": "pending",
     "next_class": "檢查 Q10 作業及 ZeroJudge 提交結果，針對 b966 尚未熟悉的解題觀念進行複習與補強，確認理解後進入 c292 題目的教學與練習。"
+},{
+    "date": "2026-11-27",
+    "platform": "ZeroJudge",
+    "planned_questions": ["c297"],
+    "completed_questions": ["c292"],
+    "pending_questions": ["c297"],
+    "student_issue": "",
+    "teaching_note": "",
+    "homework": "",
+    "homework_status": "pending",
+    "next_class": ""
 }
 
   ]
