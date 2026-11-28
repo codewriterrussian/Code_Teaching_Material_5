@@ -73,11 +73,11 @@
     "planned_questions": ["c297"],
     "completed_questions": ["c292"],
     "pending_questions": ["c297"],
-    "student_issue": "",
-    "teaching_note": "",
-    "homework": "",
+    "student_issue": "需加強多層迴圈、串列索引操作，以及複雜情境下的狀態更新與條件判斷。",
+    "teaching_note": "完成 c292（數字龍捲風），後續透過 c297（棒球遊戲）加強模擬演算法、資料結構操作、問題拆解及程式除錯能力。",
+    "homework": "完成 Q8,9,10，並提交 c297 至 ZeroJudge，回傳提交結果。",
     "homework_status": "pending",
-    "next_class": ""
+    "next_class": "檢查 Q8、Q9、Q10 的完成情況及 c297 的提交結果，針對錯誤進行分析與講解，並加強模擬演算法及迴圈控制的綜合應用。"
 }
 
   ]
